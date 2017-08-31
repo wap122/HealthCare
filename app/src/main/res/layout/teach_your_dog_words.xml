@@ -11,35 +11,44 @@
         android:gravity="center"
         android:orientation="vertical">
 
-        <RelativeLayout
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1">
 
             <TextView
                 style="@style/GreenText"
-                android:layout_width="260dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="8dp"
+                android:layout_weight="0.2"
                 android:gravity="center"
                 android:text="@string/a1" />
 
-            <ImageView
-                android:id="@+id/img_favorite"
-                android:layout_width="wrap_content"
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_alignParentEnd="true"
-                android:layout_marginEnd="18dp"
-                android:layout_marginTop="5dp"
-                android:src="@drawable/ic_heart" />
-
-            <TextView
-                android:layout_width="60dp"
-                android:layout_height="wrap_content"
-                android:layout_alignParentEnd="true"
-                android:layout_below="@id/img_favorite"
+                android:layout_marginTop="10dp"
+                android:layout_weight="0.8"
                 android:gravity="center"
-                android:text="@string/save_touch" />
-        </RelativeLayout>
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/img_favorite"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/favorite"
+                    android:src="@drawable/ic_heart" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/save_touch" />
+            </LinearLayout>
+
+        </LinearLayout>
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -96,95 +105,99 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:weightSum="1"
+            android:layout_height="wrap_content"
             android:orientation="horizontal"
-            android:layout_height="wrap_content">
+            android:weightSum="1">
             <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_weight="0.2"
-                android:layout_width="wrap_content"
-                android:src="@drawable/teachyourdog03"
-                android:layout_height="wrap_content" />
+                android:src="@drawable/teachyourdog03" />
             <TextView
-                android:layout_weight="0.8"
-                android:layout_marginStart="10dp"
                 style="@style/NormalText"
-                android:text="@string/a20"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content" />
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_weight="0.8"
+                android:text="@string/a20" />
         </LinearLayout>
         <TextView
-            android:layout_width="wrap_content"
             style="@style/NormalText"
-            android:text="@string/a7"
-            android:layout_height="wrap_content" />
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a7" />
         <TextView
             style="@style/RedText"
-            android:text="@string/a8"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:text="@string/a8" />
         <TextView
-            android:layout_width="wrap_content"
-            android:text="@string/a9"
             style="@style/NormalText"
-            android:layout_height="wrap_content" />
-        <TextView
             android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a9" />
+        <TextView
             style="@style/RedText"
-            android:text="@string/a10"
-            android:layout_height="wrap_content" />
-        <TextView
-            android:text="@string/a11"
             android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a10" />
+        <TextView
             style="@style/NormalText"
-            android:layout_height="wrap_content" />
-        <TextView
             android:layout_width="wrap_content"
-            android:padding="8dp"
+            android:layout_height="wrap_content"
+            android:text="@string/a11" />
+
+        <TextView
             style="@style/BlueText"
-            android:text="@string/a12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:background="#FFFFCC"
-            android:layout_height="wrap_content" />
+            android:padding="8dp"
+            android:text="@string/a12" />
         <TextView
-            android:layout_width="wrap_content"
             style="@style/NormalText"
-            android:text="@string/a13"
-            android:layout_height="wrap_content" />
-        <TextView
             android:layout_width="wrap_content"
-            android:text="@string/a14"
+            android:layout_height="wrap_content"
+            android:text="@string/a13" />
+
+        <TextView
             style="@style/GreenText"
-            android:layout_height="wrap_content" />
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a14" />
         <ImageView
             android:layout_width="wrap_content"
-            android:src="@drawable/teachyourdog04"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:src="@drawable/teachyourdog04" />
         <TextView
-            android:layout_width="wrap_content"
-            android:text="@string/a15"
             style="@style/NormalText"
-            android:layout_height="wrap_content" />
-        <TextView
             android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a15" />
+
+        <TextView
             style="@style/BlueText"
-            android:text="@string/a16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:background="#FFFFCC"
             android:padding="8dp"
-            android:layout_height="wrap_content" />
+            android:text="@string/a16" />
         <TextView
-            android:layout_width="wrap_content"
-            android:text="@string/a17"
             style="@style/NormalText"
-            android:layout_height="wrap_content" />
-        <TextView
             android:layout_width="wrap_content"
-            android:text="@string/a18"
+            android:layout_height="wrap_content"
+            android:text="@string/a17" />
+        <TextView
             style="@style/RedText"
-            android:layout_height="wrap_content" />
-        <TextView
             android:layout_width="wrap_content"
-            android:text="@string/a19"
+            android:layout_height="wrap_content"
+            android:text="@string/a18" />
+
+        <TextView
             style="@style/NormalText"
-            android:layout_height="wrap_content" />
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a19" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="50dp" />

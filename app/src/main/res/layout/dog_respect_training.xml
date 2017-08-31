@@ -11,35 +11,44 @@
         android:gravity="center"
         android:orientation="vertical">
 
-        <RelativeLayout
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1">
 
             <TextView
                 style="@style/GreenText"
-                android:layout_width="275dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="8dp"
+                android:layout_weight="0.2"
                 android:gravity="center"
-                android:text="@string/text13" />
+                android:text="@string/dog1" />
 
-            <ImageView
-                android:id="@+id/img_favorite"
-                android:layout_width="wrap_content"
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_alignParentEnd="true"
-                android:layout_marginEnd="18dp"
-                android:layout_marginTop="5dp"
-                android:src="@drawable/ic_heart" />
-
-            <TextView
-                android:layout_width="60dp"
-                android:layout_height="wrap_content"
-                android:layout_alignParentEnd="true"
-                android:layout_below="@id/img_favorite"
+                android:layout_marginTop="10dp"
+                android:layout_weight="0.8"
                 android:gravity="center"
-                android:text="@string/save_touch" />
-        </RelativeLayout>
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/img_favorite"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/favorite"
+                    android:src="@drawable/ic_heart" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/save_touch" />
+            </LinearLayout>
+
+        </LinearLayout>
 
         <TextView
             style="@style/PurpleText"

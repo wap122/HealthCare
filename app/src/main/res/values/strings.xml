@@ -9,45 +9,142 @@
     <string name="text7">Snorting, snuffling, wheezing, snoring, some slobbering\n\nGassiness (flatulence)\n\nStubbornness\n\nSlowness to housebreak\n\nQuite a few potential health problems due to his deformed face\n\nHigh cost</string>
     <string name="text8">A French Bulldog may not be right for you.</string>
     <string name="dog">dog</string>
-    <string name="text9">Keep in mind that the inheritance of temperament is less predictable than the inheritance of physical traits such as size or shedding. Temperament and behavior are also shaped by raising and training.</string>
+    <string name="text9">Keep in mind that the inheritance of <b>temperament</b> is less predictable than the inheritance of <b>physical</b> traits such as size or shedding. Temperament and behavior are also shaped by raising and training.</string>
     <string name="text10">You can avoid some negative traits by choosing an ADULT dog from an animal shelter or rescue group. With an adult dog, you can easily see what you\'re getting, and plenty of adult French Bulldogs have already proven themselves not to have negative characteristics.\n\nIf you want a puppy, you can avoid some negative traits by choosing the right breeder and the right puppy. Unfortunately, you usually can\'t tell whether a puppy has inherited temperament or health problems until he grows up.</string>
     <string name="text11">More traits and characteristics of the French Bulldog</string>
-    <string name="text12">If I was considering a French Bulldog, I would be most concerned about…\n\n1. Health problems. Unfortunately, these nice-tempered dogs are deliberately bred with structural deformities that detract from the dog\'s quality of life. They especially have trouble breathing. You need to protect them from heatstroke and if your summers get hot, your home needs to be air-conditioned. Along with respiratory disorders, Frenchies also suffer from spinal disorders, eye diseases, heart disease, and joint diseases. Read more about French Bulldog Health.\n\n2. French Bulldog sounds. Because of their short face, most Frenchies snort, snuffle, wheeze, grunt, and snore loudly. These sounds are endearing to some people; nerve-wracking to others.\n\n3. Slobbering. Some French Bulldogs, especially those with heavy loose lips, slobber water when they drink. Some drool, too, especially after eating and drinking.\n\n4. Gassiness (flatulence). All short-faced breeds gulp air when they eat, and that air has to go somewhere, after all!\n\n5. Stubbornness. For such a small dog, French Bulldogs can be quite stubborn and manipulative. You must show them, through absolute consistency, that you mean what you say. Food is a great motivator for this breed, but it often results in a fat Frenchie who only obeys if you\'re waving a cookie. I recommend a more sensible training method.\n\n6. Housebreaking. French Bulldogs can be quite slow to housebreak. Expect four to six months of consistent crate training.</string>
+    <string name="text12">If I was considering a French Bulldog, I would be most concerned about…\n\n1. <b>Health problems.</b> Unfortunately, these nice-tempered dogs are deliberately bred with structural deformities that detract from the dog\'s quality of life. They especially have trouble breathing. You need to protect them from heatstroke and if your summers get hot, your home needs to be air-conditioned. Along with respiratory disorders, Frenchies also suffer from spinal disorders, eye diseases, heart disease, and joint diseases. Read more about French Bulldog Health.\n\n2. <b>French Bulldog sounds.</b> Because of their short face, most Frenchies snort, snuffle, wheeze, grunt, and snore loudly. These sounds are endearing to some people; nerve-wracking to others.\n\n3. <b>Slobbering.</b> Some French Bulldogs, especially those with heavy loose lips, slobber water when they drink. Some drool, too, especially after eating and drinking.\n\n4. <b>Gassiness (flatulence).</b> All short-faced breeds gulp air when they eat, and that air has to go somewhere, after all!\n\n5. <b>Stubbornness.</b> For such a small dog, French Bulldogs can be quite stubborn and manipulative. You must show them, through absolute consistency, that you mean what you say. Food is a great motivator for this breed, but it often results in a fat Frenchie who only obeys if you\'re waving a cookie. I recommend a more sensible training method.\n\n6. <b>Housebreaking.</b> French Bulldogs can be quite slow to housebreak. Expect four to six months of consistent crate training.</string>
     <string name="save_touch">To Save, Touch Here</string>
     <string name="te1">Training French Bulldogs</string>
     <string name="text13">Dog Training – What Works, And What Doesn\'t</string>
     <string name="text14">Treats can be great motivators. But if your dog will only obey for a treat, then HE is in charge of his obedience, not you.</string>
     <string name="text15">Many dog training methods are based on what makes the OWNER feel good, rather than on what actually makes sense to the DOG. For example…
-\n\n"Positive only" dog training has become popular nowadays.
-\n\nWith "positive only" dog training, you bribe your dog to do something with food or a toy. If he does the desired behavior, he receives the reward.
-\n\n"Positive only" dog training often includes a clicker device – a little metal tab that makes a clicking sound when pressed with your thumb. Clicker training is a form of "conditioning." You click at the precise instant your dog is doing some desired behavior, then immediately give a treat. The dog learns that whenever he hears the clicking sound, whatever behavior he was doing at that instant will bring him food.</string>
-    <string name="text16">The problem with "positive only" dog training</string>
+\n\n\"<i>Positive only</i>\" dog training has become popular nowadays.
+\n\nWith \"positive only\" dog training, you bribe your dog to do something with food or a toy. If he does the desired behavior, he receives the reward.
+\n\n\"Positive only\" dog training often includes a clicker device – a little metal tab that makes a clicking sound when pressed with your thumb. <i>Clicker training</i> is a form of \"conditioning.\" You click at the precise instant your dog is doing some desired behavior, then immediately give a treat. The dog learns that whenever he hears the clicking sound, whatever behavior he was doing at that instant will bring him food.</string>
+    <string name="text16">The problem with \"positive only\" dog training</string>
     <string name="text17">Positive-only dog training and clicker training work well for teaching fun things – like tricks – where it really doesn\'t matter whether your dog obeys or not. If you tell him to shake hands or roll over and he doesn\'t do it, who cares? But for teaching your dog to come when called in the presence of temptations or distractions.... for teaching your dog to stand quietly while his teeth are brushed or his coat is groomed.... for teaching your dog to act politely toward strangers and other animals....</string>
     <string name="text19">....and for teaching your dog all the other behaviors you want a well-behaved family dog to do (or not do!).... positive-only dog training is less effective.</string>
     <string name="text20">Think about it. What happens when you want your dog to stop chasing a cat and come to you – but at that particular moment he\'s not hungry and would rather chase the cat rather than munch on a biscuit?</string>
-    <string name="t1">Owners who rely on positive-only dog training are stuck whenever their dog "isn't in the mood" to do something.</string>
-    <string name="t2">An old trainer once said that if a dog really wants to chase a cat, he will chase it "regardless of biscuits showering upon him like manna from heaven."</string>
+    <string name="t1">Owners who rely on positive-only dog training are stuck whenever their dog \"isn\'t in the mood\" to do something.</string>
+    <string name="t2">An old trainer once said that if a dog really wants to chase a cat, he will chase it \"regardless of biscuits showering upon him like manna from heaven.\"</string>
     <string name="t3">Positive-only dog training does not teach your dog to respect you. And it is RESPECT that motivates a dog to be well-behaved even at times when he doesn\'t feel like it.</string>
-    <string name="t4">Why Respect Training makes more sense to dogs</string>
-    <string name="t5">Respect Training is a balanced philosophy of dog training. "Balanced" means both positive and negative consequences for one\'s behaviors.</string>
+    <string name="t4">Why <i>Respect Training</i> makes more sense to dogs</string>
+    <string name="t5">Respect Training is a <b>balanced</b> philosophy of dog training. "Balanced" means both positive and negative consequences for one\'s behaviors.</string>
     <string name="t6">Real life for all living creatures consists of learning from both positive and negative consequences.</string>
     <string name="t7">Positive consequences encourage us to repeat a behavior.\n\nNegative consequences discourage us from repeating a behavior.</string>
-    <string name="t8">For example, we hold the door open and someone says, "Thank you!" (positive), so we are likely to do it again. We take an extra-long lunch break and the boss docks our pay (negative), so we are less likely to do that again. We learn from both positive and negative consequences and behave accordingly.</string>
+    <string name="t8">For example, we hold the door open and someone says, \"Thank you!\" (positive), so we are likely to do it again. We take an extra-long lunch break and the boss docks our pay (negative), so we are less likely to do that again. We learn from both positive and negative consequences and behave accordingly.</string>
     <string name="t9">Your dog learns from both positive and negative consequences. Momma Dog will let Puppy know if he is playing reasonably or if he gets too rough.</string>
-    <string name="t10">So do dogs. When a puppy plays with his mother, if his style of play is reasonable, she responds in a positive manner. But if he gets too rough, she is quick to correct with a growl.\n\nDoes Puppy become depressed and never play with another dog again? Of course not. He is happy to play – only more gently.\n\nDogs learn best from balanced dog training, where their behaviors can result in positive OR negative consequences.\n\n - Positive consequences means you reward desirable behaviors with praise, smiles, petting, games, and yes, treats.\n\n - Negative consequences means you correct undesirable behaviors with your voice, your facial expression, your body language, your hands, or with the leash or collar. Now I don\'t mean hitting, yelling, choke collars, or shock collars. I can show you how to correct your dog without being harsh or hurtful.</string>
+    <string name="t10">So do dogs. When a puppy plays with his mother, if his style of play is reasonable, she responds in a positive manner. But if he gets too rough, she is quick to correct with a growl.\n\nDoes Puppy become depressed and never play with another dog again? Of course not. He is happy to play – only more gently.\n\nDogs learn best from <b><i>balanced</i></b> dog training, where their behaviors can result in positive OR negative consequences.\n\n - <b><i>Positive consequences</i></b> means you reward desirable behaviors with praise, smiles, petting, games, and yes, treats.\n\n - <b><i>Negative consequences</i></b> means you correct undesirable behaviors with your voice, your facial expression, your body language, your hands, or with the leash or collar. Now I don\'t mean hitting, yelling, choke collars, or shock collars. I can show you how to correct your dog without being harsh or hurtful.</string>
     <string name="t11">Be realistic and fair with your dog. Show him positive and negative consequences so he can make an informed choice.</string>
     <string name="t12">By showing your dog both positive and negative consequences, he can make a conscious choice to do a behavior (or stop doing a behavior) – not only when he\'s in the mood for a reward/treat, but also when he might not care a hoot about the reward/treat but he still controls himself because he doesn\'t want a correction.
-\n\nAll of life works this way – "cause and effect."
+\n\nAll of life works this way – \"cause and effect.\"
 \n\nAnd here\'s the best part....</string>
     <string name="t13">When YOU become the arbiter of your dog\'s behaviors – the one who gets to say yea or nay about what he\'s allowed to do – your dog feels respectful toward you.</string>
     <string name="t14">And once your dog respects you, he will listen to you. He will pay attention to you. He will do whatever you ask, and stop any misbehavior upon a single word from you.\n\nYou might like my article on Respect Training.\n\nOr just follow the complete, step-by-step Respect Training program(this app)</string>
     <string name="t18">Meet Kathy Armstrong and Jake</string>
-    <string name="t15">Frustrated dog owners often call or email me when their dog has behavior problems and needs training. Here is "Kathy" calling about "Jake."</string>
+    <string name="t15">Frustrated dog owners often call or email me when their dog has behavior problems and needs training. Here is \"Kathy\" calling about \"Jake\".</string>
     <string name="t16">I often get phone calls from distressed owners who are having trouble with their dog.
 \n\nLet\'s listen in on a phone conversation between myself and a typical dog owner.... let\'s call her Kathy Armstrong.
-\n\nKathy: "Michele, my dog Jake is being difficult! I can't make him do anything. He only listens to me when he's in the mood."
-\n\nMe: "I see. Would you say Jake is behaving rudely?"
-\n\nKathy (surprised): "What do you mean? How can a dog be rude?"</string>
-
+\n\n<b>Kathy</b>: \"Michele, my dog Jake is being difficult! I can\'t make him do anything. He only listens to me when he\'s in the mood.\"
+\n\n<b>Me</b>: \"I see. Would you say Jake is behaving rudely?\"
+\n\n<b>Kathy</b>: (surprised): \"What do you mean? How can a dog be rude?\"</string>
+    <string name="t17">Ah, how indeed! Let us count the ways!</string>
+    <string name="t19"><b>Me</b>: \"Does Jake sass you back when you tell him to do something? Does he bark back at you?\"
+\n\n<b>Kathy</b>: \"Well, yes, sometimes. If he doesn\'t want to do something.\"</string>
+    <string name="t20"><b>Me</b>: \"Does he ever grumble at you when you wake him up? Or when you try to move him off his favorite chair? Or when you reach toward his food bowl while he\'s eating? Or when you touch some \"sensitive\" part of his body, like his tail or stomach or paw?\"
+\n\n<b>Kathy</b>: \"Yes, he does growl sometimes, but he\'s just telling me not to bother him.\"</string>
+    <string name="t21"><b>Me</b>: \"Does he brace his legs and refuse to let go when you try to take something away from him?\"
+\n\n<b>Kathy</b>: \"Yes, if it\'s something he wants to keep for himself.\"</string>
+    <string name="t22"><b>Me</b>: \"Does Jake persistently nudge or pester you for attention when you\'re trying to read a book or talk on the phone or visit with guests?\"
+\n<b>Kathy</b>: \"Yes, when I\'m not paying attention to him.\"</string>
+    <string name="t23"><b>Me</b>: \"Does Jake sometimes steal food off your plate when you leave it unattended? Does he get into the trash?\"
+\n\n<b>Kathy</b>:: \"Um…\"</string>
+    <string name="t24"><b>Me</b>: \"When Jake doesn\'t get his own way or when he\'s upset with you, does he ever \"act out\" by chewing things up or peeing somewhere in the house?\"
+\n\n<b>Kathy</b>: \"Why, yes.....I think he does it to get back at me.\"</string>
+    <string name="t25"><b>Me</b>: \"When you reach your hand toward Jake, does he sometimes dart away from you, keeping just out of reach?\"
+\n\n<b>Kathy</b>: \"Yes, he does....he doesn\'t want me to catch him if I\'m going to put his leash on or give him a bath.\"</string>
+    <string name="t26"><b>Me</b>: \"When you catch Jake doing something wrong, does he run from you? Does he lead you on a merry chase around the house or yard?\"
+\n\n<b>Kathy</b>: \"Uh-huh. So he can\'t be scolded. He doesn\'t always come when I call him either, unless I have a cookie.\"</string>
+    <string name="t27"><b>Me</b>: \"Does <b>Jake</b> decide who\'s welcome in your home and who isn\'t? Does he bark or grumble at visitors even after you\'ve let them in? Does he pitch a fit when he sees another dog?\"
+\n\n<b>Kathy</b>: \"Well, if he\'s excited… or if he doesn\'t like them…\"</string>
+    <string name="t28"><b>Me</b>: \"Ah, and if he does like them, is he calm and polite? Or does he jump all over them?\"
+\n\n<b>Silence. Then....</b>
+\n\n<b>Kathy</b>: \"I\'m beginning to see your point.\"</string>
+    <string name="t29"><b>Me</b>: \"And you said he only obeys when he\'s in the mood.
+\n<b>Kathy</b> (sighing): \"You\'re right, Michele. Jake does do quite a few of those things. But are they really that bad?\"</string>
+    <string name="t30"><b>Me</b>: \"I\'m afraid so. Those behaviors are rude and disrespectful. If a dog is allowed to do things that are rude and disrespectful, he starts believing that he is higher in the <b>pecking order</b> than YOU are.\"
+\n\n<b>Kathy</b> (puzzled): \"And the pecking order is…?\"
+\n<b>Me</b>: \"It\'s like a ladder of hierarchy. Dogs are sociable animals who like to live with other sociable animals in a group or pack.
+This \"pack instinct\" is built into your dog\'s genes, and it\'s a good thing. It\'s the reason dogs fit so tightly into our families.</string>
+    <string name="t31">You see, when a dog joins your family, even if your family consists only of a single person – YOU – a pack is formed.</string>
+    <string name="t32">Oh, yes, in his mind it certainly is, and his instincts compel him to seek out its structure. Who are the leaders, and who are the followers?
+\n\nI\'ll give you a hint.....whoever is allowed to set the rules and make the decisions are the leaders.
+\n\nThe rest are the followers.
+\n\nIf you and your family members don\'t establish yourselves as the leaders, your dog may try to assume that role himself. His instincts tell him, you see, that a pack should have a leader.
+\n\nAnd now you will see some of those \"rude and disrespectful\" behaviors. Your dog isn\'t really being rude or disrespectful. He is simply carrying out his role as a leader – making decisions about which of his behaviors are acceptable. Since you haven\'t assumed the role, HE has done it.\"
+\n\n<b>Kathy</b> (anxiously): \"But I don\'t want to rule over my dog. I just want him to be my friend.\"</string>
+    <string name="t33">\"Getting back at you\"</string>
+    <string name="t34">\"Telling off\" strangers or other dogs</string>
+    <string name="t35">If your dog won\'t \"let\" you bathe him, the relationship between the two of you needs to be changed.</string>
+    <string name="t36"><b>Me</b>: \"Kathy, friends are equals. Jake is your <b>dependent</b>. He depends on you for his health, his safety, his very life.\"
+\n\nThere are times when you need to do things with Jake that he doesn\'t understand and doesn\'t like.
+\n\nFor example, you might need to give medicine that tastes awful.... or take something dangerous out of his mouth..... or roll him onto his back so you can remove a tick from his belly.</string>
+    <string name="t37">If your dog won\'t \"let\" you clean his teeth or take something out of his mouth, the relationship between the two of you needs to be changed.</string>
+    <string name="t38">Jake may be smart, but he doesn\'t understand that medicines will help him, that some things he puts in his mouth could poison him or choke him, that ticks carry disease.
+\n\nWithout this knowledge, Jake can\'t know what\'s best for him.
+    \n\nFor his own safety, your dog must always accept YOUR greater knowledge and judgment.</string>
+    <string name="t39">For your own peace of mind as your dog\'s guardian and caregiver, you must feel confident that you can restrain and handle him in any way you see fit, at any time you see fit.</string>
+    <string name="t40">If your dog won\'t accept <b>minor</b> things such as clipping his toenails, or cleaning his teeth, or sitting quietly while you attach his leash....
+\n\nIf your dog barks back at you, or pesters you constantly for attention, or won\'t shut up when people come to the door, or won\'t come when he\'s called....
+\n\n....then he\'s certainly not going to accept some <b>major</b> things you might need to do with him to take proper care of him.</string>
+    <string name="t41">If your dog won\'t \"let\" you groom him, the relationship between the two of you needs to be changed.</string>
+    <string name="t42">You simply cannot take proper care of your dog if he doesn\'t recognize that you are the leader and he is the follower.</string>
+    <string name="t43"><b>Kathy</b>: \"But I\'m worried that if I take charge all the time, he\'ll resent me.\"
+\n\n<b>Me</b>: \"Oh no, Kathy, he\'ll respect you.... and that is a wonderful thing!
+\nWhen your dog recognizes you as a capable leader worthy of respect, he will behave beautifully for you – and also he will feel happy and secure, because it\'s a great load off his shoulders.\"</string>
+    <string name="t44">Let me explain why follower dogs feel so happy and secure</string>
+    <string name="t45">1. Follower dogs feel secure because they know someone else is in charge.</string>
+    <string name="t46">Your dog craves a leader who has everything under control. Then HE doesn\'t have to worry about trying to figure out our complicated world.</string>
+    <string name="t47">Follower dogs can just relax and enjoy life while YOU handle all the decisions.</string>
+    <string name="t48">2. Follower dogs feel happy because everyone likes them.</string>
+    <string name="t49">Since follower dogs are so willing to listen to you, it\'s easy to teach them good behaviors.
+\n\nPeople appreciate well-behaved follower dogs and are quick to pet them and compliment them. Dogs love this kind of attention.</string>
+    <string name="t50">3. Follower dogs feel secure because they\'ve learned the consequences of everything they do.</string>
+    <string name="t51">Follower dogs have been taught which behaviors bring them praise and petting, and which behaviors bring corrections.
+\n\nThis clear distinction helps them choose which behaviors to do, and which behaviors to avoid.</string>
+    <string name="t52">Dogs love the security of knowing what to do and what not to do.</string>
+    <string name="t53">4. Follower dogs are happy because they\'ve learned what our human sounds mean.</string>
+    <string name="t54">Like anyone who learns a foreign language, your dog feels confident and empowered when he understands what you\'re saying.</string>
+    <string name="t55">If you want your dog to be a follower.... you need to be a leader</string>
+    <string name="t56"><b>Kathy</b>: \"Okay, I like the idea that Jake will feel more secure when I teach him to be a follower dog. But why do I need to be a leader? Won\'t he learn from me if I just love him? Don\'t dogs want to please the people they love?\"
+\n\n<b>Me</b>: \"Surprisingly, no. Dogs treat \"love\" and \"respect\" different. They love unconditionally, but they only want to <b>please</b> people they respect.\"
+\n\nIf your dog is doing any of those behaviors we talked about earlier.....if he\'s not listening to you....then you\'ve lost at least some of his respect, and you need to know what to do to get it back.\"
+\n\n<b>Kathy</b> (resolutely): \"I think I understand. Tell me what to do!\"
+\n\n<b>Me</b>: \"Just follow the step-by-step Respect Training guide
+\nYou\'ll learn how to teach Jake to be a respectful follower dog and then he\'ll pay attention to you and do what you say. Exactly what you\'ve been looking for!\"\nThanks For Readding :D</string>
+    <string name="favorite">favorite</string>
+    <string name="a1">Teach The Right Words In The Right Ways</string>
+    <string name="a2">Doesn\'t it make sense that your dog needs to <b>understand</b> what you\'re saying before he can <b>DO</b> what you\'re saying?\n\nVocabulary words are the building blocks for getting your dog to do what you want him to do.</string>
+    <string name="a3">I\'ve been training dogs and teaching dog obedience classes for over 35 years. I\'d like to show you the techniques. I\'ve developed for teaching <b><i>100 WORDS</i></b> to your dog that will make him the smartest, most well-mannered companion you\'ve ever had.</string>
+    <string name="a4">Some of the dog training commands every dog should know and obey.</string>
+    <string name="a5">For example, you definitely want your dog to know (and obey) the words in the picture!
+\nMind you, you don\'t need to teach all 100 words. Even if you teach only a few of the words on my list, you\'ll still be rewarded with much better behavior.
+\nEACH word you teach improves your dog\'s behavior just a little more.</string>
+    <string name="a6">Why it\'s so good to teach your dog words</string>
+    <string name="a7">They know <b>WHAT</b> to do.\n\nAnd they know what <b>NOT</b> to do.\n\nDogs love the security of knowing what to do and what not to do.</string>
+    <string name="a8">And whoever teaches them these things is the person they come to view as their trusted leader.</string>
+    <string name="a9">They look up to that person. They believe in that person. They trust that person to do anything with them, to handle them in any way necessary.</string>
+    <string name="a10">You want yourself to be that person. Which is why YOU must always be the one to train your dog.</string>
+    <string name="a11">You\'ve heard of dog training schools that promise to take your dog to their establishment and train him for you, then send him home to you?\n\nUnless your dog has a serious aggression problem requiring expert evaluation and treatment, I wouldn\'t even consider this.</string>
+    <string name="a12">Dogs aren\'t robots who can be \"programmed\" by someone else to listen to YOU. Dogs listen to YOU and do what YOU say when they respect YOU – and they respect YOU when YOU are the teacher-leader who earns their respect.</string>
+    <string name="a13">No one else can do that for you. You have to do it yourself. In fact, each member of your family has to earn your dog\'s respect for themselves.</string>
+    <string name="a14">An educated dog is a true companion</string>
+    <string name="a15">An educated dog is a thinking dog. He watches you. He pays close attention to you. He \"reads\" your facial expressions and body language. He listens carefully and pieces together individual words into complex actions.\n\n\"Where\'s your rope toy, Buffy? Where is it? Go find it. Oops, that\'s your hedgehog toy. Drop it. Good girl. Now go find your rope toy. Is it upstairs? Go upstairs. Upstairs. Get your rope toy. Good girl, you got it! Bring it here. Good! Now give it to me. Drop it. Good girl! Yay!\"</string>
+    <string name="a16">Are you interested in a dog like that? Good for you! My dogs are like that – yours can be, too.</string>
+    <string name="a17">First, your dog has to learn the meaning of all those words. That\'s where you come in.</string>
+    <string name="a18">You need to know the best words to teach.\nAnd you need to know exactly how to teach them.</string>
+    <string name="a19">In this App, I\'ll show you how to teach words to your dog in specific ways that encourage him to respect you. Then he will not only <b>understand</b> what you say, but also <b>DO</b> what you say.\n\nMy training method is based on sensible leadership that encourages your dog to respect you. Read more about Respect Training.</string>
+    <string name="a20">Dogs who know what your words mean are the happiest, smartest, most confident dogs in the world.
+\nDogs who know lots of words fully understand what is expected of them.</string>
 
 </resources>

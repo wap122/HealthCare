@@ -17,13 +17,36 @@
             android:contentDescription="@string/dog"
             android:src="@drawable/frenchbulldogsf3" />
 
-        <TextView
-            style="@style/HeadlineText"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
-            android:gravity="center"
-            android:text="@string/text1" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                style="@style/GreenText"
+                android:layout_width="275dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:gravity="center"
+                android:text="@string/text1" />
+
+            <ImageView
+                android:id="@+id/img_favorite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="18dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/ic_heart" />
+
+            <TextView
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_below="@id/img_favorite"
+                android:gravity="center"
+                android:text="@string/save_touch" />
+        </RelativeLayout>
+
 
         <TextView
             style="@style/NormalText"

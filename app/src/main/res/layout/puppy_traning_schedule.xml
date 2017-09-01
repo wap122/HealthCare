@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <TextView
+                style="@style/GreenText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.2"
+                android:gravity="center"
+                android:text="@string/a43" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_weight="0.8"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/img_favorite"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/favorite"
+                    android:src="@drawable/ic_heart" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/save_touch" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/schedule_intro" />
+
+        <TextView
+            style="@style/BlurText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a44" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a45" />
+
+        <TextView
+            style="@style/GreenText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a47" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/schedule_routines" />
+
+        <TextView
+            style="@style/BlurText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a46" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a48" />
+
+        <TextView
+            style="@style/GreenText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a49" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/teachyourdog02" />
+
+        <TextView
+            style="@style/BlurText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a50" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a51" />
+
+        <TextView
+            style="@style/GreenText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a52" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/schedule_biscuits" />
+
+        <TextView
+            style="@style/BlurText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a53" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a54" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/yellow"
+            android:padding="4dp"
+            android:text="@string/a55" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a56" />
+
+        <TextView
+            style="@style/GreenText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a57" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/schedule_respect" />
+
+        <TextView
+            style="@style/BlurText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a58" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a59" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/schedule_storybook" />
+
+        <TextView
+            style="@style/BlurText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a60" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a61" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/yellow"
+            android:padding="4dp"
+            android:text="@string/a62" />
+
+        <TextView
+            style="@style/GreenText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a63" />
+
+        <TextView
+            style="@style/PurpleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a64" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/schedule_crate" />
+
+        <TextView
+            style="@style/BlurText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a66" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a65" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/yellow"
+            android:padding="4dp"
+            android:text="@string/a67" />
+
+        <TextView
+            style="@style/PurpleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a68" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a69" />
+
+        <TextView
+            style="@style/RedText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a70" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/yellow"
+            android:padding="4dp"
+            android:text="@string/a71" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a72" />
+
+        <TextView
+            style="@style/PurpleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a73" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/schedule_handling" />
+
+        <TextView
+            style="@style/BlurText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a74" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a75" />
+
+        <TextView
+            style="@style/PurpleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a76" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/schedule_gentleness" />
+
+        <TextView
+            style="@style/BlurText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a78" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a77" />
+
+        <TextView
+            style="@style/RedText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a79" />
+
+        <TextView
+            style="@style/PurpleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a80" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/schedule_rules" />
+
+        <TextView
+            style="@style/BlurText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a82" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a81" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/yellow"
+            android:padding="4dp"
+            android:text="@string/a83" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a84" />
+
+        <TextView
+            style="@style/PurpleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a85" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a86" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/schedule_older" />
+
+        <TextView
+            style="@style/BlurText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a88" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a87" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/yellow"
+            android:padding="4dp"
+            android:text="@string/a89" />
+
+        <TextView
+            style="@style/NormalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a90" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp" />
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
